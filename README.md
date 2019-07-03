@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 Some new text.
-Adding a line here
+Adding a line here.
+More changes in myfeature branch
 
 ## Purpose
 
